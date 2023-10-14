@@ -1,0 +1,38 @@
+/* CSS for Book Landing Page */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #519ea8;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+    background-color: #a1e9d1;
+}
+
+h1 {
+    color: #333;
+}
+
+.book-cover {
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+.description {
+    width: 60%;
+    margin: 20px auto;
+    line-height: 1.7;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #77628a;
+    padding: 10px 0;
+    color: #333;
+}
