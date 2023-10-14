@@ -1,5 +1,5 @@
 # Title: "Everlasting Bonds: Nurturing a Fulfilling Marriage"
-This is a project I am working on to create a website using HTML, Javascript.
+This is a project I am working on to create a website using HTML, CSS, Javascript.
 
 ## Description
 
