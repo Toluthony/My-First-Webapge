@@ -29,7 +29,7 @@ Delve into a treasure trove of insightful articles and blog posts, offering addi
 Join us on this transformative exploration of love, commitment, and lasting companionship. "Everlasting Bonds" is not just a book; it's a guiding light for couples who are committed to nurturing a marriage that thrives, no matter the challenges that come their way.
 
 ## Screenshot
-![screenshotimg] (/20231014_132701.jpg)
+![screenshotimg](/20231014_132701.jpg)
 
 
 
